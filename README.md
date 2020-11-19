@@ -1,5 +1,4 @@
-# Omnistack11.0
-Clone interface Pipefy.
+:flower_playing_cards: Clone interface Pipefy Drag'n Drop
 
 ## :computer: Frontend web
 
@@ -17,20 +16,13 @@ Clone interface Pipefy.
 
 :open_file_folder: Feel free to contribute to the project!
 
-## :pencil2: Observation:
-
-- This project was developed during the week omnistack 11.0 with cutting edge technologies and is free for anyone to reuse it.
-
-- To install the dependencies of the mobile project and start the project follow the steps mentioned inside the readme file of the mobile folder.
-
-## :fire: Used technologies
+## :fire: :computer: Tecnologias Usadas
 - ReactJS
-- NodeJS
+- Javascript
 - Styled Components
 - Git
-- Cors
-- Express
-- react-router-dom
+- Immer
+- React-dnd
 
 ## :man: Contributors
 - @JulioCesar012
