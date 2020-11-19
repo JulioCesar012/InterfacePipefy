@@ -7,23 +7,15 @@ Clone interface Pipefy.
 
 ## :notebook: Documented
 
-- :exclamation: The system contains complete documentation, providing the steps for you to download and install the dependencies and modify the will!
+:exclamation: Essa interface foi feita para fins educacionais e aprendizado de técnicas com React.js!
 
-## :calendar: validations
+:gear: Para executar o projeto
 
-- [x] The frontend contains original validations of the Javascript present in the inputs
+:pushpin:	E preciso ter o Nodejs instalado, versão miníma v10.0;
 
-## :wrench: Running the project
+:pushpin:	Utilize yarn ou npm para instalar as dependenciais contidas no arquivo principal;
 
-- You need to configure the entire react.js environment and the node.
-- When downloading this project or cloning, type the command npm install in both folders (backend and frontend) to install the dependencies.
-- Go to the project backend and from an npm start to start the application backend.
-- Then with the backend window open, start a new window and open the frontend folder and run the npm start command.
-- Okay, you have the application running, right after starting the frontend you will be redirected to the browser and can test the application.
-
-- For the Mobile Project access: [here](/mobile#readme).
-
-- Feel free to contribute to the project!
+:open_file_folder: Feel free to contribute to the project!
 
 ## :pencil2: Observation:
 
