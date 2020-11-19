@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import produce from 'immer';
-import { cards } from 'react-dnd';
 
 import { loadLists } from '../../data/api';
 
