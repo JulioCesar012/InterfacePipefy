@@ -27,7 +27,7 @@
 
 - :open_file_folder: Feel free to contribute to the project!
 
-- :fire: Tecnologias Usadas (#tecnologias)
+- :fire: Tecnologias Usadas #tecnologias
 - :react: ReactJS
 - Javascript
 - Styled Components
