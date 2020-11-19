@@ -1,14 +1,6 @@
 <h1 align="center">
-    <img src="/InterfacePipefy.png">
+    <img src="/PipefyInterface.png">
 </h1>
-
-<h1>
-    <img src="public/apresentacao.gif">
-</h1>
-
-<h3 align="center">
-    <a href="https://rocketmusics.herokuapp.com/">Acessar a demonstração</a>
-<h3 >
 
 # Indice
 
@@ -32,7 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-## 🗂 Como baixar o projeto
+## :construction: Como baixar o projeto
 
 ```bash
 
