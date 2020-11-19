@@ -2,7 +2,7 @@
 Clone interface Pipefy.
 
 ## :computer: Web preview
-- Para visualizar o resultado clique aqui: [alt text](/PipefyInterface.png).
+- Para visualizar o resultado clique aqui: [alt text](/PipefyInterface.pngraw=true "Title").
 
 ## :notebook: Documented
 
