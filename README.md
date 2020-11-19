@@ -18,7 +18,7 @@
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-## [ReactJS](https://reactjs.org)
+- [ReactJS](https://reactjs.org)
 - [Immer](https://github.com/immerjs/immer)
 - [React-Dnd](https://github.com/react-dnd/react-dnd)
 
