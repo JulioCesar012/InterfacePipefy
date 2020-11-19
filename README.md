@@ -24,7 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-## :package: Como baixar o projeto
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png" /> Como baixar o projeto
 
 ```bash
 
