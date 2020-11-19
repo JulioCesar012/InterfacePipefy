@@ -8,9 +8,9 @@
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
-## 🔖&nbsp; Sobre
+## :clipboard:&nbsp; Sobre
 
-O projeto **RocketMusic** é um e-commerce que foi criado dentro do curso **Bootcamp GoStack** com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+O projeto **Clone Pipefy** é um sistema de grad'n drop utilizado pela plataforma Pipefy, nesse projeto recriamos esse efeito utilizando algumas Libs como **React-Dnd e Immer**, com esse projeto podemos reaproveitar componentes e movimentá-los para qualquer lugar no dashboard por exemplo.
 
 ---
 
@@ -19,8 +19,8 @@ O projeto **RocketMusic** é um e-commerce que foi criado dentro do curso **Boot
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [ReactJS](https://reactjs.org)
-- [Redux](https://redux.org)
-- [Axios](https://github.com/axios/axios)
+- [Immer](https://github.com/immerjs/immer)
+- [React-Dnd](https://github.com/react-dnd/react-dnd)
 
 ---
 
@@ -29,18 +29,20 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/danileao/rocketmusic
+    $ git clone https://github.com/JulioCesar012/InterfacePipefy
 
     # Entrar no diretório
-    $ cd rocketmusic
+    $ cd InterfacePipefy
 
     # Instalar as dependências
-    $ yarn install
+    $ yarn install ou $ npm install
 
     # Iniciar o projeto
     $ yarn start
+    
+    #Desfrutar desse recurso massa
 ```
 
 ---
 
-Desenvolvido 💜 por Daniele Leão Evangelista
+Desenvolvido 💜 por Julio Cesar Filho :boy:
