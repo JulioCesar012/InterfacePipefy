@@ -1,8 +1,9 @@
 # Omnistack11.0
 Clone interface Pipefy.
 
-## :computer: Web preview
-- Para visualizar o resultado clique aqui: <img src="/PipefyInterface.png">
+## :computer: Frontend web
+
+<img src="/PipefyInterface.png">
 
 ## :notebook: Documented
 
