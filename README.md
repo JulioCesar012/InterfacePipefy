@@ -2,7 +2,7 @@
 Clone interface Pipefy.
 
 ## :computer: Web preview
-- Para visualizar o resultado clique aqui: [here](/screenshots#Pipefy.web).
+- Para visualizar o resultado clique aqui: [here](/PipefyInterface.png).
 
 ## :notebook: Documented
 
