@@ -8,7 +8,7 @@
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
-## :clipboard:&nbsp; Sobre
+## :clipboard: &nbsp; Sobre
 
 O projeto **Clone Pipefy** é um sistema de grad'n drop utilizado pela plataforma Pipefy, nesse projeto recriamos esse efeito utilizando algumas Libs como **React-Dnd e Immer**, com esse projeto podemos reaproveitar componentes e movimentá-los para qualquer lugar no dashboard por exemplo.
 
@@ -24,7 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-## :package: Como baixar o projeto
+## Como baixar o projeto ##:package:
 
 ```bash
 
