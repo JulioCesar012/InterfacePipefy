@@ -5,7 +5,7 @@ Clone interface Pipefy.
 
 <img src="/PipefyInterface.png">
 
-## :notebook: Documented
+## :spiral_notepad: Documented
 
 :exclamation: Essa interface foi feita para fins educacionais e aprendizado de técnicas com React.js!
 
