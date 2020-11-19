@@ -7,7 +7,7 @@ Clone interface Pipefy.
 
 ## :notebook: Documented
 
-- [x] The system contains complete documentation, providing the steps for you to download and install the dependencies and modify the will!
+- :exclamation: The system contains complete documentation, providing the steps for you to download and install the dependencies and modify the will!
 
 ## :calendar: validations
 
