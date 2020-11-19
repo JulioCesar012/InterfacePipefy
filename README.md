@@ -1,39 +1,54 @@
-:flower_playing_cards: Clone interface Pipefy Drag'n Drop
+<h1 align="center">
+    <img src="/InterfacePipefy.png">
+</h1>
 
-## :computer: Frontend web
+<h1>
+    <img src="public/apresentacao.gif">
+</h1>
 
+<h3 align="center">
+    <a href="https://rocketmusics.herokuapp.com/">Acessar a demonstração</a>
+<h3 >
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
+# Indice
 
+- [Sobre](#-sobre)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Como baixar o projeto](#-como-baixar-o-projeto)
 
-<img src="/PipefyInterface.png">
+## 🔖&nbsp; Sobre
 
-- :spiral_notepad: Documented
+O projeto **RocketMusic** é um e-commerce que foi criado dentro do curso **Bootcamp GoStack** com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
 
-- :exclamation: Essa interface foi feita para fins educacionais e aprendizado de técnicas com React.js!
+---
 
-- :gear: Para executar o projeto
+## 🚀 Tecnologias utilizadas
 
-- :pushpin:	E preciso ter o Nodejs instalado, versão miníma v10.0;
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-- :pushpin:	Utilize yarn ou npm para instalar as dependenciais contidas no arquivo principal;
+- [ReactJS](https://reactjs.org)
+- [Redux](https://redux.org)
+- [Axios](https://github.com/axios/axios)
 
-- :open_file_folder: Feel free to contribute to the project!
+---
 
-- :fire: Tecnologias Usadas #tecnologias
-- :react: ReactJS
-- Javascript
-- Styled Components
-- Git
-- Immer
-- React-dnd
+## 🗂 Como baixar o projeto
 
-## :man: Contributors
-- @JulioCesar012
+```bash
+
+    # Clonar o repositório
+    $ git clone https://github.com/danileao/rocketmusic
+
+    # Entrar no diretório
+    $ cd rocketmusic
+
+    # Instalar as dependências
+    $ yarn install
+
+    # Iniciar o projeto
+    $ yarn start
+```
+
+---
+
+Desenvolvido 💜 por Daniele Leão Evangelista
