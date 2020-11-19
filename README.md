@@ -24,7 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-## Como baixar o projeto  :construction:
+## Como baixar o projeto
 
 ```bash
 
