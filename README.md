@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="/PipefyInterface.png">
+    <img src="/Pipefy.gif">
 </h1>
 
 # 📄 Indice
